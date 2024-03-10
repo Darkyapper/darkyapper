@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Hi there! I am [Darkyapper](https://github.com/Darkyapper)👋
+I am a student at the UTM (Universidad Tecnologica Metropolitana) in Merida, Yucatan, Mexico. 
+ <a href="https://github.com/Darkyapper/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Darkyapper&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Darkyapper's github stats" /></a> | <a href="https://github.com/Darkyapper/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkyapper&layout=compact&theme=buefy&hide_border=true" /></a> 
 <!--
 **Darkyapper/darkyapper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -10,6 +10,14 @@ I am a ICT and Cross-platform software student at the UTM (Universidad Tecnologi
 - RPG videogame (no name yet)
 - [Yucafur Identificaition cards register webpage](https://github.com/Darkyapper/credencial-furry-page)
 - [Machines Admin webpage](https://github.com/Darkyapper/Futuro-d-Mexico)
+- Visual Novel Videogame
+
+### Languages:
+![Python](https://img.shields.io/badge/Python%20-%20%23F1A519%20?style=for-the-badge&logo=Python&logoColor=%23FFFFFF&color=%23F1A519%20)
+![HTML](https://img.shields.io/badge/HTML%20-%20%23F1A519%20?style=for-the-badge&logo=HTML5&logoColor=%23FFFFFF&color=%23DD0A0A%20)
+![CSS](https://img.shields.io/badge/CSS%20-%20%23F1A519%20?style=for-the-badge&logo=CSS3&logoColor=%23FFFFFF&color=%231C2FE8%20)
+![C#](https://img.shields.io/badge/C%23%20-%20%23F1A519%20?style=for-the-badge&logo=C%23&logoColor=%23FFFFFF&color=%238C10BF%20)
+![JS](https://img.shields.io/badge/JavaScript%20-%20%23F1A519%20?style=for-the-badge&logo=JavaScript&logoColor=%23FFFFFF&color=%23EEC714%20)
 
 ### Another thing about me:
 - I'm furry Artist
@@ -17,6 +25,9 @@ I am a ICT and Cross-platform software student at the UTM (Universidad Tecnologi
 - I'm Musician and singer
 - I love to meet friends
 - I like to travel and my favorite place is Sisal beach
+- My birthday is on March 11th
+- I speak spanish and english
+- I have Excel Professional Certificate (CONOCER)
 
  <a href="https://github.com/Darkyapper/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Darkyapper&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Darkyapper's github stats" /></a> | <a href="https://github.com/Darkyapper/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkyapper&layout=compact&theme=buefy&hide_border=true" /></a> 
 <!--

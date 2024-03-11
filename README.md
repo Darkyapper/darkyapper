@@ -12,12 +12,15 @@ I am a ICT and Cross-platform software student at the UTM (Universidad Tecnologi
 - [Machines Admin webpage](https://github.com/Darkyapper/Futuro-d-Mexico)
 - Visual Novel Videogame
 
-### Languages:
+# Skills:
+
 ![Python](https://img.shields.io/badge/Python%20-%20%23F1A519%20?style=for-the-badge&logo=Python&logoColor=%23FFFFFF&color=%23F1A519%20)
 ![HTML](https://img.shields.io/badge/HTML%20-%20%23F1A519%20?style=for-the-badge&logo=HTML5&logoColor=%23FFFFFF&color=%23DD0A0A%20)
 ![CSS](https://img.shields.io/badge/CSS%20-%20%23F1A519%20?style=for-the-badge&logo=CSS3&logoColor=%23FFFFFF&color=%231C2FE8%20)
 ![C#](https://img.shields.io/badge/C%23%20-%20%23F1A519%20?style=for-the-badge&logo=C%23&logoColor=%23FFFFFF&color=%238C10BF%20)
-![JS](https://img.shields.io/badge/JavaScript%20-%20%23F1A519%20?style=for-the-badge&logo=JavaScript&logoColor=%23FFFFFF&color=%23EEC714%20)
+![JS](https://img.shields.io/badge/JavaScript%20-%20%23F1A519%20?style=for-the-badge&logo=JavaScript&logoColor=%23FFFFFF&color=%23CDAD1D%20)
+![GML](https://img.shields.io/badge/GML%20-%20%23F1A519%20?style=for-the-badge&logo=GameMaker&logoColor=%23FFFFFF&color=%2329B00B%20)
+
 
 ### Another thing about me:
 - I'm furry Artist

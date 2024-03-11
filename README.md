@@ -7,10 +7,10 @@ I am a ICT and Cross-platform software student at the UTM (Universidad Tecnologi
 - 🖥Cross-platform developer
 
 ### I'm currently working on:
-- RPG videogame (no name yet)
-- [Yucafur Identificaition cards register webpage](https://github.com/Darkyapper/credencial-furry-page)
-- [Machines Admin webpage](https://github.com/Darkyapper/Futuro-d-Mexico)
-- Visual Novel Videogame
+- 🎮RPG videogame (no name yet)
+- 💳[Yucafur Identificaition cards register webpage](https://github.com/Darkyapper/credencial-furry-page)
+- 🛒[Machines Admin webpage](https://github.com/Darkyapper/Futuro-d-Mexico)
+- 🎮Visual Novel Videogame
 
 ## Skills:
 ### Languages:
@@ -22,9 +22,12 @@ I am a ICT and Cross-platform software student at the UTM (Universidad Tecnologi
 ![GML](https://img.shields.io/badge/GML%20-%20%23F1A519%20?style=for-the-badge&logo=GameMaker&logoColor=%23FFFFFF&color=%2329B00B%20)
 ### Database:
 ![SQLite](https://img.shields.io/badge/SQLite%20-%20%23F1A519%20?style=for-the-badge&logo=SQLite&logoColor=%23FFFFFF&color=%232BA1D1%20)
+### Tools:
+![GitHub](https://img.shields.io/badge/GitHub%20-%20%23FFFFFF?style=for-the-badge&logo=Github&logoColor=%23FFFFFF&color=%23192561%20)
+![Git](https://img.shields.io/badge/Git%20-%20%23FFFFFF?style=for-the-badge&logo=Git&logoColor=%23FFFFFF&color=%23D47B36%20)
+![VS](https://img.shields.io/badge/Visual%20Studio%20-%20%23FFFFFF?style=for-the-badge&logo=Visualstudio&logoColor=%23FFFFFF&color=%238E2687%20)
 
-
-## Another thing about me:
+## Another things about me:
 - I'm furry Artist
 - I'm a Yucafur Staff
 - I'm Musician and singer
@@ -33,6 +36,8 @@ I am a ICT and Cross-platform software student at the UTM (Universidad Tecnologi
 - My birthday is on March 11th
 - I speak spanish and english
 - I have Excel Professional Certificate (CONOCER)
+
+## Connect with me:
 
  <a href="https://github.com/Darkyapper/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Darkyapper&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Darkyapper's github stats" /></a> | <a href="https://github.com/Darkyapper/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkyapper&layout=compact&theme=buefy&hide_border=true" /></a> 
 <!--

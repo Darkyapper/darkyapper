@@ -35,7 +35,7 @@ Heya! I am David M. Chay, alias Darkyapper (or Yeik) as everyone know me. I am a
 - ✈🏖I like to travel and my favorite place is Sisal beach
 - 🦜My favorite animals are the parrots, wolfs, foxes and cats
 - 🎂My birthday is on March 11th
-- 💕I'm in a relationship (Anniversary September 4th)
+- 💕I'm in a relationship (Anniversary on September 4th)
 - 💬I speak spanish and english
 - 📄I have Excel Professional Certificate (CONOCER)
 

@@ -26,6 +26,7 @@ Heya! I am David M. Chay, alias Darkyapper (or Yeik) as everyone know me. I am a
 ![GitHub](https://img.shields.io/badge/GitHub%20-%20%23FFFFFF?style=for-the-badge&logo=Github&logoColor=%23FFFFFF&color=%23192561%20)
 ![Git](https://img.shields.io/badge/Git%20-%20%23FFFFFF?style=for-the-badge&logo=Git&logoColor=%23FFFFFF&color=%23D47B36%20)
 ![VS](https://img.shields.io/badge/Visual%20Studio%20-%20%23FFFFFF?style=for-the-badge&logo=Visualstudio&logoColor=%23FFFFFF&color=%238E2687%20)
+![VSC](https://img.shields.io/badge/Visual%20Studio%20Code%20-%20%23FFFFFF?style=for-the-badge&logo=VisualStudioCode&logoColor=%23FFFFFF&color=%233586F5)
 ![Win](https://img.shields.io/badge/Windows%20-%20%23FFFFFF?style=for-the-badge&logo=windows&logoColor=%23FFFFFF&color=%23519ABC%20)
 
 ## Another things about me:

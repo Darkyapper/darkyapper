@@ -45,7 +45,7 @@ Heya! I am David M. Chay, alias Darkyapper (or Yeik) as everyone know me. I am a
 [<img src="https://img.shields.io/badge/Instagram%20-%20%23FFFFFF?style=for-the-badge&logo=instagram&logoColor=%23FFFFFF&color=%23000000" />](https://instagram.com/darkyapper)
 [<img src="https://img.shields.io/badge/Linktree%20-%20%23FFFFFF?style=for-the-badge&logo=Linktree&logoColor=%23FFFFFF&color=%23000000" />](https://linktr.ee/darkyapper)
 
- <a href="https://github.com/Darkyapper/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Darkyapper&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Darkyapper's github stats" /></a> | <a href="https://github.com/Darkyapper/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkyapper&layout=compact&theme=buefy&hide_border=true" /></a> 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkyapper&show_icons=true&theme=neon)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkyapper&layout=compact&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Darkyapper/darkyapper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

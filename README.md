@@ -8,9 +8,9 @@ Heya! I am David M. Chay, alias Darkyapper (or Yeik) as everyone know me. I am a
 
 ### I'm currently working on:
 - 🎮RPG videogame (no name yet)
-- 💳[Yucafur Identificaition cards register webpage](https://github.com/Darkyapper/credencial-furry-page)
-- 🛒[Machines Admin webpage](https://github.com/Darkyapper/Futuro-d-Mexico)
-- 🎮Visual Novel Videogame
+- 🌐Some web projects
+- 🐺MayaFur Web Page
+- 📄Furry Program Language
 
 ## Skills:
 ### Languages:

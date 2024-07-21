@@ -43,7 +43,7 @@ Heya! I am David M. Chay, alias Darkyapper (or Yeik) as everyone know me. I am a
 
 ## Another things about me:
 - 🐺🎨I'm furry Artist
-- 👮‍♂️I'm a Yucafur Staff
+- 👮‍♂️I'm a MayaFur Staff and Official MayaFur Web Developer
 - 🎵I'm Musician and singer
 - ✈🏖I like to travel and my favorite place is Sisal beach
 - 🦜My favorite animals are the parrots, wolfs, foxes and cats

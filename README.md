@@ -7,9 +7,8 @@ Heya! I am David M. Chay, alias Darkyapper (or Yeik) as everyone know me. I am a
 - 🖥Cross-platform developer
 
 ### I'm currently working on:
-- 🎮RPG videogame (no name yet)
 - 🌐Some web projects
-- 🐺[MayaFur Web Page](https://mayafurconvencionmid.com)
+- 🎨[My personal artist website](https://github.com/Darkyapper/art-commissions-website)
 - 📄Furry Program Language
 
 ## Skills:
@@ -43,14 +42,12 @@ Heya! I am David M. Chay, alias Darkyapper (or Yeik) as everyone know me. I am a
 
 ## Another things about me:
 - 🐺🎨I'm furry Artist
-- 👮‍♂️I'm a MayaFur Staff and Official MayaFur Web Developer
 - 🎵I'm Musician and singer
 - ✈🏖I like to travel and my favorite place is Sisal beach
 - 🦜My favorite animals are the parrots, wolfs, foxes and cats
 - 🎂My birthday is on March 11th
 - 💕I'm in a relationship (Anniversary on September 4th)
 - 💬I speak spanish and english
-- 📄I have Excel Professional Certificate (CONOCER)
 
 ## Connect with me:
 [<img src="https://img.shields.io/badge/Website%20-%20%23FFFFFF?style=for-the-badge&logo=WWW&logoColor=%23FFFFFF&color=%23000000" />](https://darkyapper.blogspot.com/)

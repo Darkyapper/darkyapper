@@ -7,9 +7,9 @@ Heya! I am David M. Chay, alias Darkyapper (or Yeik) as everyone know me. I am a
 - 🖥Cross-platform developer
 
 ### I'm currently working on:
-- 🌐Some web projects
+- 🌄[Nimbus Ambient Screen™](https://github.com/Darkyapper/nimbus-ambientscreen)
 - 🎨[My personal artist website](https://github.com/Darkyapper/art-commissions-website)
-- 📄Furry Program Language
+- 📝[RegisCon™](https://github.com/Darkyapper/regiscon)
 
 ## Skills:
 ### Languages:
@@ -23,19 +23,25 @@ Heya! I am David M. Chay, alias Darkyapper (or Yeik) as everyone know me. I am a
 ![SQLite](https://img.shields.io/badge/SQLite%20-%20%23F1A519%20?style=for-the-badge&logo=SQLite&logoColor=%23FFFFFF&color=%232BA1D1%20)
 ![PostgreSQL](https://img.shields.io/badge/PotgreSQL%20-%20%23F1A519%20?style=for-the-badge&logo=PostgreSQL&logoColor=%23FFFFFF&color=%23CDAD1D%20)
 ![SQLserver](https://img.shields.io/badge/SQLServer%20-%20%23F1A519%20?style=for-the-badge&logo=SQLServer&logoColor=%23FFFFFF&color=%23DD0700%20)
+![MySQL](https://img.shields.io/badge/MySQL%20-%20%23F1A519%20?style=for-the-badge&logo=MySql&logoColor=%23FFFFFF&color=%234479A1%20)
 ### Databases Tools:
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy%20-%20%23F1A519%20?style=for-the-badge&logo=SQLAlchemy&logoColor=%23FFFFFF&color=%23D71F00%20)
 ![Supabase](https://img.shields.io/badge/Supabase%20-%20%23F1A519%20?style=for-the-badge&logo=Supabase&logoColor=%23FFFFFF&color=%233FCF8E%20)
 ![SSMS](https://img.shields.io/badge/SQLServer%20Managment%20Studio%20-%20%23F1A519%20?style=for-the-badge&logo=SQLServer&logoColor=%23FFFFFF&color=%23A100FF%20)
+![MySQLW](https://img.shields.io/badge/MySQL%20Workbench%20-%20%23F1A519%20?style=for-the-badge&logo=MySql&logoColor=%23FFFFFF&color=%234479A1%20)
 ### Frameworks:
 ![Flask](https://img.shields.io/badge/Flask%20-%20%23F1A519%20?style=for-the-badge&logo=Flask&logoColor=%23FFFFFF&color=%23000000%20)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%20%23F1A519%20?style=for-the-badge&logo=bootstrap&logoColor=%23FFFFFF&color=%237952B3%20)
 ![jQuery](https://img.shields.io/badge/jQuery%20-%20%23F1A519%20?style=for-the-badge&logo=jQuery&logoColor=%23FFFFFF&color=%230769AD%20)
+![React](https://img.shields.io/badge/React%20-%20%23F1A519%20?style=for-the-badge&logo=React&logoColor=%23FFFFFF&color=%232496ED%20)
+![ExpressJS](https://img.shields.io/badge/Express%20JS%20-%20%23F1A519%20?style=for-the-badge&logo=Express&logoColor=%23FFFFFF&color=%23000000%20)
 ### Tools, IDE's and Services:
 ![GitHub](https://img.shields.io/badge/GitHub%20-%20%23FFFFFF?style=for-the-badge&logo=Github&logoColor=%23FFFFFF&color=%23192561%20)
 ![Git](https://img.shields.io/badge/Git%20-%20%23FFFFFF?style=for-the-badge&logo=Git&logoColor=%23FFFFFF&color=%23D47B36%20)
 ![VSC](https://img.shields.io/badge/Visual%20Studio%20Code%20-%20%23FFFFFF?style=for-the-badge&logo=VisualStudioCode&logoColor=%23FFFFFF&color=%233586F5)
+![Node JS](https://img.shields.io/badge/Node%20JS%20-%20%23F1A519%20?style=for-the-badge&logo=nodedotjs&logoColor=%23FFFFFF&color=%23#5FA04E%20)
 ![Docker](https://img.shields.io/badge/Docker%20-%20%23FFFFFF?style=for-the-badge&logo=Docker&logoColor=%23FFFFFF&color=%232496ED%20)
+![Figma](https://img.shields.io/badge/Figma%20-%20%23F1A519%20?style=for-the-badge&logo=figma&logoColor=%23FFFFFF&color=%23F24E1E%20)
 ![WP](https://img.shields.io/badge/WordPress%20-%20%23FFFFFF?style=for-the-badge&logo=WordPress&logoColor=%23FFFFFF&color=%2321759B%20)
 ![Win](https://img.shields.io/badge/Windows%20-%20%23FFFFFF?style=for-the-badge&logo=windows&logoColor=%23FFFFFF&color=%23519ABC%20)
 ![Fedora](https://img.shields.io/badge/Fedora%20-%20%23FFFFFF?style=for-the-badge&logo=Fedora&logoColor=%23FFFFFF&color=%2351A2DA%20)

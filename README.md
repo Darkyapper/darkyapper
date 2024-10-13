@@ -9,7 +9,7 @@ Heya! I am David M. Chay, alias Darkyapper (or Yeik) as everyone know me. I am a
 ### I'm currently working on:
 - 🌄[Nimbus Ambient Screen™](https://github.com/Darkyapper/nimbus-ambientscreen)
 - 🎨[My personal artist website](https://github.com/Darkyapper/art-commissions-website)
-- 📝[RegCon™](https://github.com/Darkyapper/regiscon)
+- 📝[RegCon™](https://github.com/Darkyapper/regcon)
 
 ## Skills:
 ### Languages:

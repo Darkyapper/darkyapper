@@ -8,8 +8,8 @@ Heya! I am David M. Chay, alias Darkyapper (or Yeik) as everyone know me. I am a
 
 ### I'm currently working on:
 - 📝[Project RegCon™](https://github.com/stars/Darkyapper/lists/regcon-project-family)
-- 🌄[MayaFur Website](https://www.mayafurconvencionmid.com/)
-- 🎨[My personal artist website](https://github.com/Darkyapper/art-commissions-website)
+- 🦊[MayaFur Website](https://www.mayafurconvencionmid.com/)
+- 🚩Users Report Platform
 
 
 ## Skills:

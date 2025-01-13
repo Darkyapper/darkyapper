@@ -7,9 +7,10 @@ Heya! I am David M. Chay, alias Darkyapper (or Yeik) as everyone know me. I am a
 - 🖥Cross-platform developer
 
 ### I'm currently working on:
-- 🌄[Nimbus Ambient Screen™](https://github.com/Darkyapper/nimbus-ambientscreen)
+- 📝[Project RegCon™](https://github.com/stars/Darkyapper/lists/regcon-project-family)
+- 🌄[MayaFur Website](https://www.mayafurconvencionmid.com/)
 - 🎨[My personal artist website](https://github.com/Darkyapper/art-commissions-website)
-- 📝[RegCon™](https://github.com/Darkyapper/regcon)
+
 
 ## Skills:
 ### Languages:
@@ -44,7 +45,7 @@ Heya! I am David M. Chay, alias Darkyapper (or Yeik) as everyone know me. I am a
 ![Figma](https://img.shields.io/badge/Figma%20-%20%23F1A519%20?style=for-the-badge&logo=figma&logoColor=%23FFFFFF&color=%23F24E1E%20)
 ![WP](https://img.shields.io/badge/WordPress%20-%20%23FFFFFF?style=for-the-badge&logo=WordPress&logoColor=%23FFFFFF&color=%2321759B%20)
 ![Win](https://img.shields.io/badge/Windows%20-%20%23FFFFFF?style=for-the-badge&logo=windows&logoColor=%23FFFFFF&color=%23519ABC%20)
-![Fedora](https://img.shields.io/badge/Fedora%20-%20%23FFFFFF?style=for-the-badge&logo=Fedora&logoColor=%23FFFFFF&color=%2351A2DA%20)
+![UM](https://img.shields.io/badge/Ubuntu%20MATE%20-%20%23FFFFFF?style=for-the-badge&logo=ubuntu%20mate&logoColor=%23FFFFFF&color=%2384A454%20)
 
 ## Another things about me:
 - 🐺🎨I'm furry Artist

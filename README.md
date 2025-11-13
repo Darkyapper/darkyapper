@@ -1,5 +1,5 @@
 # Hi there! I am [Darkyapper](https://github.com/Darkyapper)👋
-Heya! I am David, alias Darkyapper (or Yeik for friends) as everyone know me. I am a ICT and Cross-platform software student at the UTM (Universidad Tecnologica Metropolitana) in Merida, Yucatan, Mexico. 
+Heya! I am David, alias Darkyapper (or Yeik for friends) as everyone know me. I am a ICT and Cross-platform software student. 
 
 ### More about me:
 - 🌐Fullstack web developer
